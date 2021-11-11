@@ -10,6 +10,9 @@ He's Dope.
 - He takes bad decision, but can't help it. 
 - Now he wants you to merge branch 'toby' into branch 'michael' and after doing it continue reading the instructions.
 
+## YOU HAVE BEEN PRANKED    
+- It was a prank. Michael hates toby. Unmerge the changes, branch toby is USELESS like any HR. After unmerging move onto next instructions in branch michael.
+
 - Now the office revolves around michael and his problems, so it's evitable for this branch to not have many issues with other branches.  
 
 - He's a tricky guy, he has hid a hint in the commit message of the 2nd commit. Extract it, follow it and then move unto next instructions. 
