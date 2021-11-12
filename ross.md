@@ -14,6 +14,6 @@ Where's Rach or are we on a brake?
 # Hints
 - Ross a sweet guy.
 - He (or you) wants to be with Rach.
-- Merge this branch with rachael, on conflicts give priority to rachael 
+- Merge this branch into rachael, on conflicts give priority to rachael 
 
 
