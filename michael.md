@@ -16,4 +16,4 @@ He's Dope.
 
 - Now, you can merge the jim branch to michael branch and give conflict priority to changes in jim branch.
 
-- Good to go. All the DONE. MERGE the michael branch to main and give conflict priority to changes in michael branch. Don't forget to submit the code generated, GIT WARRIOR.
+- I see you have reached a milestone. Now wait till new updates are pushed and meanwhile I have a question for you "Which bears are best blue or black?".
